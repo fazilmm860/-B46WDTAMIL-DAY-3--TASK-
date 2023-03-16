@@ -1,0 +1,68 @@
+{
+    "name": "Mohamed Fazil M",
+    "email": "jfazilmm860@gmail.com",
+    "phone": "+91 77365 38040",
+    "address": "9/188 silk Street, Kozhikode",
+    "summary": "Highly motivated MERN Stack Developer with a strong foundation in JavaScript, React.js, Node.js, and MongoDB. Completed Bsc in Computer Science from CMS College of Science and Commerce.",
+    "workExperience": [
+      {
+        "position": "Digital Marketing Executive",
+        "company": "CredLine Services",
+        "startDate": "01/08/2022",
+        "endDate": "Current",
+        "responsibilities": [
+          "Developing Social Media Strategy: Creating and executing social media plans and strategies that align with overall business goals. ",
+          "Content Creation and Curation: Developing high-quality and engaging social media content that resonates with the target audience, aligns with brand identity, and encourages engagement.",
+          "Social Media Management: Managing social media channels, monitoring and responding to comments, and tracking and analyzing metrics to measure the effectiveness of social media campaigns."
+               ]
+      },
+      {
+        "position": "RelationShip Manager",
+        "company": "NEXA Maruti Suzuki",
+        "startDate": "01/09/2021",
+        "endDate": "01/09/2022",
+        "responsibilities": [
+          "Meeting with customers and understanding their requirements and preferences for buying a car.",
+          "Guiding customers through the buying process and explaining the features and benefits of the car models.",
+          "Ensuring customer satisfaction by providing excellent customer service before and after the sale."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "CMS College of Science and Commerce",
+        "startDate": "01/07/2016",
+        "endDate": "01/05/2019"
+      },
+      {
+        "degree": "MBA in Marketing and HR",
+        "institution": "Sree Amman Arts and Science College",
+        "startDate": "01/07/2019",
+        "endDate": "01/07/2021"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Intermediate"
+      },
+      {
+        "name": "React",
+        "level": "beginner"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Java",
+        "level": "Intermediate"
+      },
+      {
+        "name": "MySQL",
+        "level": "Intermediate"
+      }
+    ]
+  }
+  
