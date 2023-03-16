@@ -60,7 +60,11 @@
         "level": "Intermediate"
       },
       {
-        "name": "MySQL",
+        "name": "MongoDB",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Github",
         "level": "Intermediate"
       }
     ]
